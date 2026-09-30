@@ -12,7 +12,7 @@ how much is already priced in.
 - `src/universe.json` — the AI-infrastructure supply chain, by layer, with candidate tickers.
 - `src/leopold_screen.py` — yfinance screen: economics score (growth, margins, margin expansion),
   valuation score (fwd P/E, PEG, EV/Sales, growth-adjusted P/E), momentum and risk flags.
-- `src/build_report.py` — renders `index.html`, a one-page report of all 5 steps and the latest
+- `src/build_report.py` — renders `index.html` (English) and `index_zh.html` (中文), one-page reports of all 5 steps and the latest
   screen results (`python src/build_report.py` after a screen run).
 
 ## Setup & run
