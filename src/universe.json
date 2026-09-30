@@ -1,0 +1,34 @@
+{
+  "thesis": "AI capability keeps scaling; the physical supply chain behind it hits scarcity first.",
+  "chain": "AI models -> accelerators -> HBM/memory -> networking -> data centers -> electricity -> cooling/power equipment",
+  "layers": {
+    "accelerators": {
+      "bottleneck": "GPU/ASIC supply and CoWoS packaging slots",
+      "tickers": ["NVDA", "AVGO", "AMD", "MRVL"]
+    },
+    "memory": {
+      "bottleneck": "HBM/DRAM/NAND capacity; few suppliers, long fab lead times",
+      "tickers": ["MU", "SNDK", "WDC", "STX", "000660.KS", "005930.KS"]
+    },
+    "foundry_equipment": {
+      "bottleneck": "Leading-edge wafer and advanced-packaging capacity",
+      "tickers": ["TSM", "ASML", "AMAT", "LRCX", "KLAC"]
+    },
+    "networking_optics": {
+      "bottleneck": "High-speed interconnect, optics, retimers",
+      "tickers": ["ANET", "CRDO", "COHR", "LITE", "ALAB"]
+    },
+    "datacenter_neocloud": {
+      "bottleneck": "Powered, permitted data-center shells and GPU cloud capacity",
+      "tickers": ["NBIS", "IREN", "CRWV", "CORZ", "EQIX", "DLR"]
+    },
+    "power_generation": {
+      "bottleneck": "Grid interconnect queues; firm, dispatchable power",
+      "tickers": ["BE", "VST", "CEG", "TLN", "GEV"]
+    },
+    "power_cooling_equipment": {
+      "bottleneck": "Transformers, switchgear, liquid cooling, grid build-out labor",
+      "tickers": ["VRT", "ETN", "PWR"]
+    }
+  }
+}

@@ -1,0 +1,84 @@
+Leopold Aschenbrenner’s stock-picking approach behind Situational Awareness, the core idea is quite different from conventional value investing.
+
+His basic framework
+Start with a big technological thesis
+His central thesis is that AI capability will continue scaling rapidly.
+Therefore, the question becomes: What physical infrastructure is required to make that happen?
+This leads him toward semiconductors, memory, power, data centers, networking, and AI compute.
+
+Find the bottlenecks
+
+Rather than simply buying the most famous AI companies, he looks for areas where AI growth could run into scarcity.
+
+A simplified chain is:
+
+AI models → GPUs → HBM/memory → networking → data centers → electricity → cooling/power infrastructure
+
+The companies sitting at a critical bottleneck can potentially capture disproportionate economics.
+
+Look for companies where the market underestimates the bottleneck
+
+This is probably the most interesting part of his strategy.
+
+For example, his fund's positions have included:
+
+MU — Micron
+SNDK — SanDisk
+TSM — TSMC
+BE — Bloom Energy
+NBIS — Nebius
+IREN — IREN
+semiconductor/infrastructure companies
+
+His portfolio became extremely concentrated in memory and AI infrastructure. As of June 30, 2026, reported 13F data showed approximately 28% in SNDK and 28% in MU, with the top five positions accounting for about 78% of reported long equity holdings.
+
+Think in terms of physical constraints
+
+This is where his strategy differs from simply saying "AI is going to grow."
+
+For example:
+
+AI growth → enormous GPU deployment → enormous HBM demand → limited HBM supply → pricing power → potentially extraordinary semiconductor profits.
+
+Similarly:
+
+AI data centers → enormous electricity requirements → grid/power bottleneck → companies providing power infrastructure may benefit.
+
+Bloom Energy was an example of his power-infrastructure thesis.
+
+Concentrate when conviction is high
+
+This is perhaps the most controversial aspect.
+
+He wasn't running a traditional diversified ETF portfolio. His fund made very concentrated bets, sometimes combined with leverage and options. That dramatically increases both upside and downside.
+
+The July 2026 AI selloff demonstrated the risk: reports indicate that the fund experienced a major drawdown after large positions in semiconductor stocks fell sharply.
+
+A useful way to reproduce the strategy
+
+For your own ETF/stock research, I would translate Aschenbrenner's approach into this 5-step screen:
+
+Step	Question
+1. Mega-trend	What technology could grow 5–10×?
+2. Bottleneck	What scarce resource limits that growth?
+3. Supplier	Which companies control that bottleneck?
+4. Economics	Can scarcity create pricing power/margin expansion?
+5. Valuation	Has the market already priced in the growth?
+
+For example, AI memory:
+
+AI scaling
+↓
+More GPUs / accelerators
+↓
+Much more HBM + DRAM
+↓
+Memory supply constrained
+↓
+MU / SNDK / SK Hynix benefit
+↓
+Potential earnings acceleration
+↓
+Then ask: How much of that future growth is already reflected in the stock price?
+
+That's much closer to an Aschenbrenner-style investment process than simply buying NVDA because AI is growing.
